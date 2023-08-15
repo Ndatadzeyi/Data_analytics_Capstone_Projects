@@ -1,2 +1,1 @@
-# Data_analytics_and_Exploration
-Titanic Explanatory Data analysis
+The Titanic dataset contains information about passengers aboard the RMS Titanic, including their demographic data, cabin class, fare, ticket information, survival status, etc. The goal is to predict whether a passenger survived or not based on various features
